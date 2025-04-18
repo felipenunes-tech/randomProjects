@@ -1,12 +1,12 @@
 :root {
     --primary: #fff;
-    --bg-color: #EDE7F6; /* Lavanda suave */
-    --bg-envelope-color: #E1BEE7; /* Lilás suave */
-    --envelope-tab: #7E57C2; /* Roxo intenso */
-    --envelope-cover: #9575CD; /* Roxo suave */
+    --bg-color: #EDE7F6; 
+    --bg-envelope-color: #E1BEE7; 
+    --envelope-tab: #7E57C2; 
+    --envelope-cover: #9575CD; 
     --shadow-color: rgba(0, 0, 0, 0.2);
     --txt-color: #444;
-    --heart-color: rgb(252, 8, 231); /* Cor de coração (rosa vibrante) */
+    --heart-color: rgb(252, 8, 231); 
 }
   body{
     margin: 0;
